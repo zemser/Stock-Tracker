@@ -8,6 +8,7 @@ import numpy as np
 
 BASE_CCY = "ILS"
 
+
 HEB_TO_EN = {
     "שם נייר": "Instrument Name",
     "מספר נייר": "Instrument Number",
